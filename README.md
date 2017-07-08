@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/cheyneb/dspec.png?branch=master)](https://travis-ci.org/cheyneb/dspec)
+
 # DynamicSpec
 
 Dynamic data validation using registered component specs.
