@@ -9,7 +9,7 @@
     (assoc problems k (s/explain-data spec (k data)))
     problems))
 
-(defn- composed-config?
+(defn- dspec?
   [x]
   (let [problems (reduce (partial conform x) {} (seq @specs))]
     (if (seq problems)
@@ -41,6 +41,6 @@
      :component-b-key {::s/problems '(problem-maps ...)}}
   "
   [x]
-  (s/conform ::composed-config x))
+  (s/conform ::dspec x))
 
-(s/def ::composed-config composed-config?)
+(s/def ::dspec dspec?)
