@@ -1,6 +1,7 @@
 # DynamicSpec
 
 [![Build Status](https://travis-ci.org/brydoncheyney/dspec.png?branch=master)](https://travis-ci.org/brydoncheyney/dspec)
+
 [![Clojars Project](http://clojars.org/dspec/latest-version.svg)](http://clojars.org/dspec)
 
 Dynamic data validation using registered component specs.
