@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/cheyneb/dspec.png?branch=master)](https://travis-ci.org/cheyneb/dspec)
+[![Build Status](https://travis-ci.org/brydoncheyney/dspec.png?branch=master)](https://travis-ci.org/brydoncheyney/dspec)
 
 # DynamicSpec
 
