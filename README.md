@@ -55,6 +55,10 @@ This can be validated against any registered configuration specs:
     (dspec/validate (config/load-config "resources/Service.yml"))
 ```
 
+## Example
+
+A service using [mount](https://github.com/tolitius/mount) to manage component state can be found in the simple [example app](https://github.com/brydoncheyney/dspec/tree/master/example).
+
 ## License
 
 Copyright © 2017 Brydon Cheyney

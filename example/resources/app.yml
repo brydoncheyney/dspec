@@ -1,0 +1,7 @@
+database:
+  database: dpsec-db
+  username: dpsec-user
+
+component:
+  host: dspec.lxc
+  port: 8080
