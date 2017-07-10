@@ -57,7 +57,7 @@ This can be validated against any registered configuration specs:
 
 ## Example
 
-A service using [mount](https://github.com/tolitius/mount) to manage component state can be found in the simple [example app](https://github.com/brydoncheyney/dspec/tree/master/example).
+A service using [mount](https://github.com/tolitius/mount) to manage component state can be found in the simple [example app](https://github.com/brydoncheyney/dspec/tree/master/example). On service start, the configuration is validated against the specs defined for the component dependencies of the service.
 
 ## License
 
